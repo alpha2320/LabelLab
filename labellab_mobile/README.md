@@ -13,6 +13,5 @@ S2: now u will be approached to a dashboard and see  projects and can even build
   
   
   
-  
- [Creating a New Label ]
+   [Creating a New Label ]
 You can make multiple new labels by typing the name of the label. Furthermore, selecting the label type for eg a polygon sphere, etc.
